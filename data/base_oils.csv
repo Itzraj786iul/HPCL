@@ -1,0 +1,11 @@
+base_oil_id,api_group,oil_type,viscosity_index,sulfur_content_pct,biodegradability_score,co2_kg_per_kg,cost_index
+BO_1,I,Mineral,95,0.3,0.2,3.6,0.6
+BO_2,I,Mineral,100,0.25,0.25,3.5,0.62
+BO_3,II,Mineral,110,0.03,0.3,3.2,0.7
+BO_4,II,Mineral,115,0.02,0.35,3.1,0.72
+BO_5,III,Synthetic,125,0.01,0.4,2.9,0.85
+BO_6,III,Synthetic,130,0.01,0.45,2.8,0.88
+BO_7,IV,Synthetic,145,0.0,0.5,2.6,1.05
+BO_8,IV,Synthetic,150,0.0,0.55,2.5,1.1
+BO_9,V,Bio,135,0.0,0.75,2.0,1.15
+BO_10,V,Bio,140,0.0,0.8,1.8,1.2

@@ -1,0 +1,7 @@
+parameter,value,source
+mineral_oil_co2,3.4,Public LCA literature
+synthetic_oil_co2,2.7,Public LCA literature
+bio_ester_co2,1.9,Public LCA literature
+toxicity_threshold,0.7,REACH / EPA proxy
+cost_baseline,1.0,Normalized baseline
+co2_baseline,3.3,Conventional lubricant average
